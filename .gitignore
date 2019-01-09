@@ -1,0 +1,15 @@
+.idea/*
+*.class
+*/target/*
+.idea*
+*.class
+target*
+*.log
+*.log.*
+*.iml
+.project
+.classpath
+*settings*
+/out/
+localtest
+/raft-core/src/main/java/com/distributiontool/raft/core/RaftCore.java
